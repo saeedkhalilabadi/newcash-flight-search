@@ -1,0 +1,23 @@
+.dateInput-main {
+    max-width: 200px;
+    position: relative;
+  }
+  .dateInput-lable {
+    position: relative;
+    width: 100%;
+  }
+  
+  .dateInput{
+    position: relative;
+    height: 30px;
+    width: 100%;
+  }
+  .dateInput-error {
+    border: solid 1px red;
+  }
+  .dateInput-label-error {
+    position: absolute;
+    bottom: -15px;
+    font-size: 8px;
+    color: red;
+  }
