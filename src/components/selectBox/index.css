@@ -1,0 +1,23 @@
+.selectBox-main {
+  max-width: 200px;
+  position: relative;
+}
+.selectBox-lable {
+  position: relative;
+  width: 100%;
+}
+
+.selectBox-input {
+  position: relative;
+  height: 30px;
+  width: 100%;
+}
+.error {
+  border: solid 1px red;
+}
+.lable-error {
+  position: absolute;
+  bottom: -15px;
+  font-size: 8px;
+  color: red;
+}
